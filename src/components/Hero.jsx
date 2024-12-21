@@ -123,7 +123,7 @@ const Hero = () => {
     </div>
   </div>
       <p className="text-white text-center text-[15px] md:text-[32px]">
-        We’ll let you know when we are Launching7
+        We’ll let you know when we are Launching
       </p>
 
       <div className="flex items-center text-center w-full">
