@@ -130,7 +130,7 @@ const Hero = () => {
         <input
           type="email"
           placeholder="Email Address"
-          className="border border-gray-300 rounded-l-md px-[1px] md:px-4 py-[4px] md:py-[9px] focus:outline-none focus:ring-2 focus:ring-blue-400"
+          className="border border-gray-300 rounded-l-md max-w-[220px] px-[1px] md:px-4 py-[4px] md:py-[9px] focus:outline-none focus:ring-2 focus:ring-blue-400"
         />
         <button className="bg-teal-400 text-white px-[1px] md:px-4 py-[5px] md:py-[10.5px] rounded-r-md hover:bg-teal-500 transition">
           Notify Me
