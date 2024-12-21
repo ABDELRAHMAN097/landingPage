@@ -69,6 +69,7 @@ const Hero = () => {
           .map((digit, index) => (
             <div
               key={`days-${index}`}
+              style={{ fontFamily: "Digital7" }}
               className="flex items-center justify-center bg-gradient-to-bl from-[#ffffff6c] to-[#dadada0a] rounded-sm shadow-lg px-3 md:px-6 py-8"
             >
               <span className="text-5xl font-bold text-white tracking-wide">
@@ -91,7 +92,7 @@ const Hero = () => {
               key={`hours-${index}`}
               className="flex items-center justify-center bg-gradient-to-bl from-[#ffffff6c] to-[#dadada0a] rounded-sm shadow-lg px-3 md:px-6 py-8"
             >
-              <span className="text-5xl font-bold text-white tracking-wide">
+              <span style={{ fontFamily: "Digital7" }} className="text-5xl font-bold text-white tracking-wide">
                 {digit}
               </span>
             </div>
@@ -109,9 +110,10 @@ const Hero = () => {
           .map((digit, index) => (
             <div
               key={`minutes-${index}`}
+              style={{ fontFamily: "Digital7" }}
               className="flex items-center justify-center bg-gradient-to-bl from-[#ffffff6c] to-[#dadada0a] rounded-sm shadow-lg px-3 md:px-6 py-8"
             >
-              <span className="text-5xl font-bold text-white tracking-wide">
+              <span style={{ fontFamily: "Digital7" }} className="text-5xl font-bold text-white tracking-wide">
                 {digit}
               </span>
             </div>

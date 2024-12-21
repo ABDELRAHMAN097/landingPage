@@ -14,4 +14,11 @@ body {
   min-height: calc(100vh - 140px);
 }
 
+@font-face {
+  font-family: "Digital7";
+  src: url("../src/assets/digital-7 (mono).ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
 
