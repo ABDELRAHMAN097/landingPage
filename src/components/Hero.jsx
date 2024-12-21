@@ -140,11 +140,11 @@ const Hero = () => {
 
     {/* social linkis */}
         <div className="flex md:flex-col gap-5 mx-auto static md:absolute right-20 bottom-[20px] ">
-        <a href="" target="_blank" rel="noopener noreferrer" className="text-white hover:underline font-medium">  <FaFacebookF /> </a>
-        <a href="" target="_blank" rel="noopener noreferrer" className="text-white hover:underline font-medium">  <FaTwitter />   </a>
-        <a href="" target="_blank" rel="noopener noreferrer" className="text-white hover:underline font-medium">  <FaLinkedinIn /></a>
-        <a href="" target="_blank" rel="noopener noreferrer" className="text-white hover:underline font-medium">  <FaInstagram /> </a>
-        <a href="" target="_blank" rel="noopener noreferrer" className="text-white hover:underline font-medium">  <FaBasketballBall /></a>
+        <a href="https://github.com/ABDELRAHMAN097" target="_blank" rel="noopener noreferrer" className="text-white hover:underline font-medium">  <FaFacebookF /> </a>
+        <a href="https://github.com/ABDELRAHMAN097" target="_blank" rel="noopener noreferrer" className="text-white hover:underline font-medium">  <FaTwitter />   </a>
+        <a href="https://github.com/ABDELRAHMAN097" target="_blank" rel="noopener noreferrer" className="text-white hover:underline font-medium">  <FaLinkedinIn /></a>
+        <a href="https://github.com/ABDELRAHMAN097" target="_blank" rel="noopener noreferrer" className="text-white hover:underline font-medium">  <FaInstagram /> </a>
+        <a href="https://github.com/ABDELRAHMAN097" target="_blank" rel="noopener noreferrer" className="text-white hover:underline font-medium">  <FaBasketballBall /></a>
         </div>
       <span className="w-[250px] md:w-[480px] h-[250px] md:h-[480px] bg-gradient-to-tl from-[#4D35A3] via-[#DF40A9] to-[#DF40A9] rounded-full absolute top-[-130px] left-[-120px] z-[-20]"></span>
       <span className="w-[250px] md:w-[480px] h-[250px] md:h-[480px] bg-gradient-to-bl from-[#DF40A9] via-[#4D35A3] to-[#4D35A3] rounded-full absolute bottom-[-70px] md:bottom-[-130px] right-[-90px] z-[-15]"></span>
