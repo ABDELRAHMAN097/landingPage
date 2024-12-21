@@ -122,19 +122,21 @@ const Hero = () => {
   </div>
 
       <p className="text-white text-center text-[15px] md:text-[32px]">
-        We’ll let you know when we are Launching
+        We’ll let you know when we are Launching7
       </p>
+
 
       <div className="flex items-center text-center w-full">
       <div className="text-center w-full">
         <input
           type="email"
           placeholder="Email Address"
-          className="border border-gray-300 rounded-l-md max-w-[220px] px-[1px] md:px-4 py-[4px] md:py-[9px] focus:outline-none focus:ring-2 focus:ring-blue-400"
+          className="border border-gray-300 rounded-l-md rounded-tr-none rounded-br-none max-w-[220px] px-[1px] md:px-4 py-[4px] md:py-[9px] focus:outline-none focus:ring-2 focus:ring-blue-400"
         />
         <button className="bg-teal-400 text-white px-[1px] md:px-4 py-[5px] md:py-[10.5px] rounded-r-md hover:bg-teal-500 transition">
           Notify Me
         </button>
+
       </div>
       </div>
 
